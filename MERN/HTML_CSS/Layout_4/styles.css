@@ -1,0 +1,27 @@
+ul{
+    display: flex;
+    gap: 200px;
+    align-content: center;
+    list-style-type: none;
+    margin: auto;
+    align-items: center;
+    padding-left: 550px;
+    padding-top: 250px;
+}
+ul li{
+    background-color: rgb(63, 196, 196);
+
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+ul li a:hover{
+    padding: 10px 10px;
+    background-color: rgb(100, 149, 237);
+    color: azure;
+}
+*{
+    background-color: aqua;
+}
